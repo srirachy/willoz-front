@@ -1,0 +1,108 @@
+main {
+  min-height: 93.8vh;
+}
+
+/* header */
+.header-logo-img {
+  height: 3rem;
+}
+
+/* register */
+#reg-success {
+  min-height: 40vh;
+}
+
+/* colors */
+.text-vista-white {
+  color: #fbf9f5;
+}
+
+.bg-vista-white {
+  background-color: #fbf9f5;
+}
+
+.text-spicy-pink {
+  color: #826873;
+}
+
+.bg-spicy-pink {
+  background-color: #826873;
+}
+
+.text-cinereous {
+  color: #9a8081;
+}
+
+.bg-cinereous {
+  background-color: #9a8081;
+}
+
+.text-quicksand {
+  color: #b3988f;
+}
+
+.bg-quicksand {
+  background-color: #b3988f;
+}
+
+.text-rodeo-dust {
+  color: #ccb09d;
+}
+
+.bg-rodeo-dust {
+  background-color: #ccb09d;
+}
+
+/* buttons */
+.btn-vista-white {
+  background-color: #fbf9f5;
+  color: #b3988f;
+}
+
+.btn-spicy-pink {
+  background-color: #826873;
+  color: #fbf9f5;
+}
+
+.btn-cinereous {
+  background-color: #9a8081;
+  color: #fbf9f5;
+}
+
+.btn-quicksand {
+  background-color: #b3988f;
+  color: #fbf9f5;
+}
+
+.btn-rodeo-dust {
+  background-color: #ccb09d;
+  color: #fbf9f5;
+}
+
+.btn-vista-white:hover,
+.btn-vista-white:active,
+.btn-vista-white:focus {
+  background-color: #b3988f;
+  color: #fbfbfb;
+}
+
+.btn-spicy-pink:hover,
+.btn-spicy-pink:active,
+.btn-vista-white:focus,
+.btn-cinereous:hover,
+.btn-cinereous:active,
+.btn-cinereous:focus,
+.btn-quicksand:hover,
+.btn-quicksand:active,
+.btn-quicksand:focus,
+.btn-rodeo-dust:hover,
+.btn-rodeo-dust:active,
+.btn-rodeo-dust:focus{
+  background-color: #fbf9f5;
+  border-color: #b3988f;
+  color: #b3988f;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
